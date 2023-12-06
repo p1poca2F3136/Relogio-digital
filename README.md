@@ -37,5 +37,3 @@ Sinta-se à vontade para personalizar o código conforme suas necessidades. Algu
 - **Adicionar funcionalidades**: Integre outras informações, como a exibição do dia da semana completo, a contagem regressiva para eventos, etc.
 
 - **Integração com outros aplicativos**: Incorpore esse relógio em outros projetos que necessitem de uma interface gráfica simples.
-
-Lembre-se de explorar e experimentar! Divirta-se com o seu novo relógio.
