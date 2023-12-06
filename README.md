@@ -1,10 +1,14 @@
-# Relógio com Saudação
+Certainly! Below is an updated README.md with the installation instructions and usage details for your clock application.
 
-Este é um simples aplicativo de relógio desenvolvido em Python usando a biblioteca Tkinter.
+---
+
+# Relógio Digital com Saudação
+
+Este é um simples aplicativo de relógio digital desenvolvido em Python usando a biblioteca Tkinter.
 
 ## Instalação
 
-Certifique-se de ter o Python instalado em seu sistema. Em seguida, instale a biblioteca Tkinter usando o seguinte comando:
+Certifique-se de ter o Python instalado em seu sistema. Em seguida, instale a biblioteca Tkinter utilizando o seguinte comando:
 
 ```bash
 pip install tk
@@ -15,8 +19,8 @@ pip install tk
 1. Clone o repositório para o seu ambiente local.
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/p1poca2F3136/Relogio-digital.git
+    cd Relogio-digital
     ```
 
 2. Execute o script:
