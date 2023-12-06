@@ -9,7 +9,7 @@ Este é um simples aplicativo de relógio desenvolvido em Python usando a biblio
 2. Execute o script:
 
     ```bash
-    python nome-do-programa.py
+    python main.py
     ```
 
 3. A janela do relógio será exibida com a saudação, data e hora.
