@@ -2,9 +2,22 @@
 
 Este é um simples aplicativo de relógio desenvolvido em Python usando a biblioteca Tkinter.
 
+## Instalação
+
+Certifique-se de ter o Python instalado em seu sistema. Em seguida, instale a biblioteca Tkinter usando o seguinte comando:
+
+```bash
+pip install tk
+```
+
 ## Como Usar
 
-1. Certifique-se de ter o Python instalado em seu sistema.
+1. Clone o repositório para o seu ambiente local.
+
+    ```bash
+    git clone https://github.com/seu-usuario/seu-repositorio.git
+    cd seu-repositorio
+    ```
 
 2. Execute o script:
 
