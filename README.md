@@ -1,6 +1,3 @@
-Certainly! Below is an updated README.md with the installation instructions and usage details for your clock application.
-
----
 
 # Relógio Digital com Saudação
 
