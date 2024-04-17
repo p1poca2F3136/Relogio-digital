@@ -8,7 +8,7 @@ root.title('Relógio')
 root.geometry("600x320")
 root.maxsize(600, 320)
 root.minsize(600, 320)
-root.configure(background='black')  # Define o fundo da janela como preto
+root.configure(background='black')
 
 tela = tk.Canvas(root, width=600, height=60, bg='black', bd=0, highlightthickness=0, relief='ridge')
 tela.pack()
@@ -33,7 +33,7 @@ def get_data():
 def get_horas():
     hora_atual = strftime('%H:%M:%S')
     horas.config(text=hora_atual)
-    horas.after(1000, get_horas)  # Chame get_horas() após 1000ms (1 segundo)
+    horas.after(1000, get_horas)
 
 get_saudacao()
 get_data()
